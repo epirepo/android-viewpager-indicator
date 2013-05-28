@@ -104,7 +104,7 @@ public class TabIndicatorView extends LinearLayout implements View.OnTouchListen
 		this.setupTabLayout(list);
 	}
 
-	protected void setupTabLayout(List<View> list) {
+	public void setupTabLayout(List<View> list) {
 		if (list == null || list.size() == 0) {
 			throw new NullPointerException();
 		}
@@ -214,7 +214,7 @@ public class TabIndicatorView extends LinearLayout implements View.OnTouchListen
 	 * @param view
 	 * @param isLast
 	 */
-	protected void refreshItemView(View view, boolean isCurrent) {
+	private void refreshItemView(View view, boolean isCurrent) {
 		final View line = view.findViewById(R.id.bottom_line);
 		final TextView textView = (TextView) view.findViewById(R.id.indicator_text);
 		final Resources resources = getContext().getResources();
