@@ -4,6 +4,7 @@ Android ViewPagerIndicatorView
 An android tab indicator with viewpager easy to use!
 
 Usage:
+--------------------------
 
 1.in android layout file:
 
