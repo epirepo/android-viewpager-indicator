@@ -86,7 +86,7 @@ public class ViewPagerIndicatorView extends LinearLayout implements OnIndicateCh
 
 	@Override
 	public void onPageSelected(int position) {
-		this.tabIndicatorView.setCurrentTab(position, false);// 无回设置TextTabIndicateView
+		this.tabIndicatorView.setCurrentTab(position, false);//设置不通知接口返回位置
 	}
 
 	private class MyPagerAdapter extends PagerAdapter {
