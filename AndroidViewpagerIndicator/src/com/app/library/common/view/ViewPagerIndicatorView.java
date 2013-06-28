@@ -11,7 +11,6 @@ import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 import android.widget.LinearLayout;
 
@@ -108,13 +107,11 @@ public class ViewPagerIndicatorView extends LinearLayout implements OnIndicateCh
 
 		@Override
 		public void destroyItem(View arg0, int arg1, Object arg2) {
-			Log.i("voice", arg1 + "----------------destroyItem");
 			((ViewPager) arg0).removeView(viewList.get(arg1));
 		}
 
 		@Override
 		public Object instantiateItem(View arg0, int arg1) {
-			Log.i("voice", arg1 + "----------------instantiateItem");
 			((ViewPager) arg0).addView(viewList.get(arg1));
 			return viewList.get(arg1);
 		}
