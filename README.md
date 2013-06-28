@@ -24,8 +24,8 @@ Usage:
 
 3.screenshot:
 
-![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcuta.png)
+![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcuta.jpg)
 
-![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutb.png)
+![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutb.jpg)
 
-![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutc.png)
+![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutc.jpg)
