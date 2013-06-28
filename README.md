@@ -22,7 +22,7 @@ Usage:
         map.put("TAB2", LayoutInflater.from(this).inflate(R.layout.activity_sample_pager_1, null));
         viewPagerIndicatorView.setupLayout(map);
 
-3.screensht:
+3.screenshot:
 
 ![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshots/shortcuta.png)
 
