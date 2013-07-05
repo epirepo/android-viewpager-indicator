@@ -23,6 +23,7 @@ Usage:
         viewPagerIndicatorView.setupLayout(map);
 
 3.screensht:
+
 ![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshots/shortcuta.png)
 
 ![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshots/shortcutb.png)
