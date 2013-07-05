@@ -21,3 +21,6 @@ Usage:
         map.put("TAB1", LayoutInflater.from(this).inflate(R.layout.activity_sample_pager_0, null));
         map.put("TAB2", LayoutInflater.from(this).inflate(R.layout.activity_sample_pager_1, null));
         viewPagerIndicatorView.setupLayout(map);
+        
+
+![ScreenShot](https://github.com/allthelucky/android-viewpager-indicator/blob/master/AndroidViewpagerIndicator/screenshots/shortcuta.png)
